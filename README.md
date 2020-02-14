@@ -3,11 +3,11 @@ UI Phone Book Application using Python Tkinter
 
 # PBFunction.py
 
-To Create and modify datas
+To Create and modify database
 
 # PBGUI.py
 
-UI Code
+GUI
 
 # PBmain.py
 
